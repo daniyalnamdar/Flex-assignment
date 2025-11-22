@@ -1,0 +1,100 @@
+{
+  "status": "success",
+  "result": [
+    {
+      "id": 7453,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4.8,
+      "publicReview": "Great stay!",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 9 }
+      ],
+      "submittedAt": "2020-08-21 22:45:14",
+      "guestName": "Shane Finkelstein",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7454,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4.5,
+      "publicReview": "Amazing flat, perfect location. Would stay again.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 9 },
+        { "category": "communication", "rating": 10 },
+        { "category": "accuracy", "rating": 9 }
+      ],
+      "submittedAt": "2021-01-10 18:12:33",
+      "guestName": "Maria Santos",
+      "listingName": "2B N1 A - 29 Shoreditch Heights",
+      "channel": "booking"
+    },
+    {
+      "id": 7455,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 3.9,
+      "publicReview": "Good overall, but check-in was a bit slow.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 7 },
+        { "category": "location", "rating": 9 }
+      ],
+      "submittedAt": "2021-03-15 14:22:10",
+      "guestName": "Oliver Brown",
+      "listingName": "KX 1A - King’s Cross Modern Studio",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7456,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 5.0,
+      "publicReview": "Literally perfect. Host was extremely responsive.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 10 },
+        { "category": "value", "rating": 9 }
+      ],
+      "submittedAt": "2021-06-05 10:11:55",
+      "guestName": "Sarah Williams",
+      "listingName": "KX 1A - King’s Cross Modern Studio",
+      "channel": "airbnb"
+    },
+    {
+      "id": 7457,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4.2,
+      "publicReview": "Comfortable stay. A bit noisy at night.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 8 },
+        { "category": "communication", "rating": 9 },
+        { "category": "location", "rating": 7 }
+      ],
+      "submittedAt": "2021-09-02 09:20:31",
+      "guestName": "Luca Rossi",
+      "listingName": "NX 3B - Camden Cozy Apartment",
+      "channel": "booking"
+    },
+    {
+      "id": 7458,
+      "type": "guest-to-host",
+      "status": "published",
+      "rating": 4.9,
+      "publicReview": "Loved the vibe of the neighborhood. Super modern interior.",
+      "reviewCategory": [
+        { "category": "cleanliness", "rating": 10 },
+        { "category": "communication", "rating": 9 },
+        { "category": "style", "rating": 10 }
+      ],
+      "submittedAt": "2022-02-18 13:05:44",
+      "guestName": "Eva Müller",
+      "listingName": "NX 3B - Camden Cozy Apartment",
+      "channel": "airbnb"
+    }
+  ]
+}
